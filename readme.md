@@ -17,3 +17,5 @@
     ![блок-схема](https://drive.google.com/file/d/1QoX8m23BQH1OxyiPBaBgdCpwSJFTO-UH/view?usp=sharing)
 
 * Пункт 2
+    Программа:
+    
