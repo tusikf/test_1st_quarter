@@ -7,3 +7,13 @@
 1. Нарисовать блок-схему
 2. Написать программу
 3. Описать Ход решения в файле Readme
+
+Решение:
+* Пункт 1
+    Рисуем блок-схему на ресурсе https://app.diagrams.net/#
+
+    Получаем схему: [block diagram](https://drive.google.com/file/d/1w4NXOvpgYTWVhzwgZDj5HJkfYv3tjGdi/view?usp=sharing)
+
+    ![блок-схема](https://drive.google.com/file/d/1QoX8m23BQH1OxyiPBaBgdCpwSJFTO-UH/view?usp=sharing)
+
+* Пункт 2
