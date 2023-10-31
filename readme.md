@@ -10,6 +10,7 @@
 
 Решение:
 * Пункт 1
+
     Рисуем блок-схему на ресурсе https://app.diagrams.net/#
 
     Получаем схему: [block diagram](https://drive.google.com/file/d/1w4NXOvpgYTWVhzwgZDj5HJkfYv3tjGdi/view?usp=sharing)
@@ -17,5 +18,11 @@
     ![блок-схема](https://drive.google.com/file/d/1QoX8m23BQH1OxyiPBaBgdCpwSJFTO-UH/view?usp=sharing)
 
 * Пункт 2
-    Программа:
+
+    Программа:[text of programe1](https://drive.google.com/file/d/179HPQUunpaavhLXZmrtkG9ZDk42kM_E-/view?usp=sharing)
+
+* Пункт 3
+
+    Описали всё в файле Readme))
+    
     
